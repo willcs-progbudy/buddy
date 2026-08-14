@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm Will, an open source enthusiast based in Hong Kong.
+I'm Will, an open source enthusiast based in Australia.
 
 ## 🔧 What I'm working on
 - Building practical tools and utilities for developers
